@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Tihasg Heroes</string>
+  <string name="database">MarvelHeroes.db</string>
+  <string name="choose_your_hero">Escolha o seu herói</string>
+  <string name="series">Series</string>
+  <string name="tihasg_logo">Tihasg MVVM </string>
+</resources>
